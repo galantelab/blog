@@ -1,0 +1,28 @@
+# Template
+#- title: My title
+#  url: https://address.com
+#  external: true
+
+# Top Menu
+topmenu:
+
+- title: Página inicial
+  url: ""
+
+- title: Quem somos
+  url: "quem-somos/"
+
+- title: Fale conosco
+  url: "fale-conosco/"
+
+# Footer Menu
+footermenu:
+
+- title: Página inicial
+  url: ""
+
+- title: Termos de uso
+  url: "termos-de-uso/"
+
+- title: Política de privacidade
+  url: "politica-de-privacidade/"

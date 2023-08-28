@@ -1,0 +1,66 @@
+---
+title: Página inicial
+layout: default
+background: '/img/bg-index.jpg'
+---
+
+<!-- Home Intro
+================================================== -->
+{% if page.url == "/" %}
+<div class="rounded mb-5 hero py-5 text-center text-md-left">
+  <div class="container-xxl bd-gutter">
+    <div class="row flex-lg-row-reverse align-items-center justify-content-between">
+      <div class="col-6 mx-auto col-lg-5 mx-lg-0">
+        <img src="{{site.baseurl}}/assets/images/intro.png" class="img-fluid my-3 mx-auto" alt="Galantelab" width="450" height="340">
+      </div>
+      <div class="col-lg-7">
+        <h1 class="font-weight-bold serif-font">Traduzindo o Código da Vida para uma linguagem acessível</h1>
+        <p class="lead font-weight-normal mb-4">Bem-vindo ao nosso espaço dedicado à divulgação científica através da lente fascinante da bioinformática!</p>
+        <a href="{{site.baseurl}}/quem-somos" class="btn btn-dark text-white px-5 btn-lg">Saiba mais</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Featured
+================================================== -->
+<section class="row">
+  {% for post in site.posts %}
+      {% if post.featured == true %}
+          <div class="col-md-4 mb-5">
+          {% include postbox.html %}
+          </div>
+      {% endif %}
+  {% endfor %}
+  </div>
+</section>
+
+<!-- Posts List with Sidebar (except featured)
+================================================== -->
+<section class="row">
+  <!-- Remove sidebar: Increase col-sm-8 to col-sm-12 -->
+  <div class="col-sm-12">
+    <div class="row">
+      {% for post in paginator.posts %}
+      {% unless post.featured == true %}
+      <div class="col-md-6 mb-5">
+        {% include postbox.html %}
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+          {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+  <!-- Remove sidebar -->
+  {% comment %}
+  <div class="col-sm-4">
+    {% include sidebar.html %}
+  </div>
+  {% endcomment %}
+</section>

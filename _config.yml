@@ -1,0 +1,51 @@
+title: Galantelab
+email: tmiller@mochsl.org.br
+timezone: America/Sao_Paulo
+baseurl: ""
+permalink: "/:title/"
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
+author: Thiago L. A. Miller
+paginate: 30
+disqus: galantelab-blog
+formspree: xeqbgnlg
+locale: pt-BR
+lang: pt-BR
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: ""
+
+# Authors
+authors:
+  tmiller:
+    name: Thiago Luiz Araujo Miller
+    display_name: Thiago L. A. Miller
+    avatar: assets/images/tmiller.png
+    description: Pós-doutorando no Galantelab.
+  pgalante:
+    name: Pedro Alexandre Favoretto Galante
+    display_name: Pedro A. F. Galante
+    avatar: assets/images/pgalante.jpg
+    description: >
+      Chefe de laboratório no Galantelab
+
+# Social
+social:
+  twitter: https://twitter.com/GalanteLab
+  github: https://github.com/galantelab
+
+# Plugins
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
