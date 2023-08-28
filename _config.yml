@@ -1,16 +1,16 @@
 title: Galantelab
+author: Thiago L. A. Miller
 email: tmiller@mochsl.org.br
 timezone: America/Sao_Paulo
-baseurl: ""
-permalink: "/:title/"
+locale: pt-BR
+lang: pt-BR
+baseurl: "/blog"
+url: "https://galantelab.github.io"
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
-author: Thiago L. A. Miller
 paginate: 30
 disqus: galantelab-blog
 formspree: xeqbgnlg
-locale: pt-BR
-lang: pt-BR
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
