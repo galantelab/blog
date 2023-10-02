@@ -2,7 +2,7 @@
 layout: post
 title: "Divulgação científica"
 author: tmiller
-categories: [ Jekyll, tutorial ]
+categories: [ ciência ]
 image: assets/images/1.jpg
 ---
 
