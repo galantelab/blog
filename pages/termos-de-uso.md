@@ -51,4 +51,4 @@ Reservamos o direito de atualizar ou modificar estes termos a qualquer momento, 
 ### Contato
 
 Se tiver alguma dúvida ou preocupação sobre estes termos e condições, entre em contato conosco através
-da página [{{site.url}}/fale-conosco]({{site.baseurl}}/fale-conosco).
+da página [{{ site.url }}{{ site.baseurl }}/fale-conosco]({{ site.baseurl }}/fale-conosco).

@@ -57,7 +57,7 @@ como eles coletam e tratam suas informações.
 Você tem o direito de acessar, corrigir ou excluir quaisquer informações pessoais que
 tenhamos coletado sobre você. Se desejar exercer esses direitos ou tiver alguma dúvida
 sobre nossas práticas de privacidade, entre em contato conosco através da página
-[{{site.url}}/fale-conosco]({{site.baseurl}}/fale-conosco).
+[{{ site.url }}{{ site.baseurl }}/fale-conosco]({{ site.baseurl }}/fale-conosco).
 
 ### Alterações nesta Política
 
