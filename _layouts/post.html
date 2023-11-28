@@ -53,6 +53,25 @@ post_class: post-template
       </small>
     </p>
 
+    <!-- How to cite us -->
+    <div class="mt-4">
+      <h2>Cite este artigo</h2>
+      <p class="bg-light p-3">
+        {% if page.author %}
+          {% assign names = author.citation_name | split: " " %}
+            {{ names.first | upcase }}
+            {{ names | slice: 1, names.size
+              | join: " "
+              | split: "."
+              | join: "." }}.
+        {% endif %}
+        {{ page.title }}. <strong>{{ site.title }}</strong>,
+        {% include /functions/date_to_string_pt.html date=page.date %}.
+        Disponível em: {{ site.url }}{{ site.baseurl }}{{ page.url }}.
+        Acesso em: {% include /functions/date_to_string_pt.html date=site.time %}.
+      </p>
+    </div>
+
     <!-- Prev/Next -->
     <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
       {% if page.previous.url %}

@@ -28,11 +28,13 @@ authors:
   tmiller:
     name: Thiago Luiz Araujo Miller
     display_name: Thiago L. A. Miller
+    citation_name: Miller, Thiago L. A.
     avatar: assets/images/tmiller.png
     description: Pós-doutorando no Galantelab.
   pgalante:
     name: Pedro Alexandre Favoretto Galante
     display_name: Pedro A. F. Galante
+    citation_name: Galante, Pedro A. F.
     avatar: assets/images/pgalante.jpg
     description: >
       Chefe de laboratório no Galantelab
