@@ -38,6 +38,15 @@ authors:
     avatar: assets/images/pgalante.jpg
     description: >
       Chefe de laboratório no Galantelab
+  dmombach:
+    name: Daniela Mombach
+    display_name: Daniela Mombach
+    citation_name: Mombach, Daniela
+    avatar: assets/images/dmombach.jpg
+    description: >
+      Bióloga e doutoranda em genética e biologia
+      molecular com foco no estudo de elementos
+      transponíveis no câncer
 
 # Social
 social:
