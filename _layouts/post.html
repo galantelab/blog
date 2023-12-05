@@ -54,22 +54,37 @@ post_class: post-template
     </p>
 
     <!-- How to cite us -->
-    <div class="mt-4">
-      <h2>Cite este artigo</h2>
-      <p class="bg-light p-3">
-        {% if page.author %}
-          {% assign names = author.citation_name | split: " " %}
-            {{ names.first | upcase }}
-            {{ names | slice: 1, names.size
-              | join: " "
-              | split: "."
-              | join: "." }}.
-        {% endif %}
-        {{ page.title }}. <strong>{{ site.title }}</strong>,
-        {% include /functions/date_to_string_pt.html date=page.date %}.
-        Disponível em: {{ site.url }}{{ site.baseurl }}{{ page.url }}.
-        Acesso em: {% include /functions/date_to_string_pt.html date=site.time %}.
-      </p>
+    <div class="accordion" id="accordionCitation">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="headingOne">
+          <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <div class="d-flex align-items-center">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+              </svg>
+              Cite este artigo
+            </div>
+          </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionCitation">
+          <div class="accordion-body">
+            <p class="bg-light p-3">
+            {% if page.author %}
+              {% assign names = author.citation_name | split: " " %}
+                {{ names.first | upcase }}
+                {{ names | slice: 1, names.size
+                  | join: " "
+                  | split: "."
+                  | join: "." }}.
+            {% endif %}
+            {{ page.title }}. <strong>{{ site.title }}</strong>,
+            {% include /functions/date_to_string_pt.html date=page.date %}.
+            Disponível em: {{ site.url }}{{ site.baseurl }}{{ page.url }}.
+            Acesso em: <span id="curDate"></span>
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- Prev/Next -->
