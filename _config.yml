@@ -47,6 +47,14 @@ authors:
       Bióloga e doutoranda em genética e biologia
       molecular com foco no estudo de elementos
       transponíveis no câncer
+  garantes:
+    name: Gabriel Arantes dos Santos
+    display_name: Gabriel A. dos Santos
+    citation_name: dos Santos, Gabriel A.
+    avatar: assets/images/garantes.png
+    description: >
+      Pós-doutorando no Galantelab estudando a
+      expressão de retroelementos no câncer
 
 # Social
 social:
