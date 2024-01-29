@@ -32,3 +32,6 @@ gem "faraday-retry"
 
 # Fix 'cannot load such file -- webrick (LoadError)'
 gem "webrick"
+
+# Fix 'cannot load such file -- json (LoadError)'
+gem "json"
