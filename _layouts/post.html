@@ -70,8 +70,8 @@ post_class: post-template
           <div class="accordion-body">
             <p class="bg-light p-3">
             {% if page.author %}
-              {% assign names = author.citation_name | split: " " %}
-                {{ names.first | upcase }}
+              {% assign names = author.citation_name | split: "," %}
+                {{ names.first | upcase }},
                 {{ names | slice: 1, names.size
                   | join: " "
                   | split: "."
