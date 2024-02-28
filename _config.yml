@@ -55,6 +55,16 @@ authors:
     description: >
       Pós-doutorando no Galantelab estudando a
       expressão de retroelementos no câncer
+  ndalessandre:
+    name: Nathália D' Alessandre
+    display_name: Nathália D' Alessandre
+    citation_name: D' Alessandre, Nathália
+    avatar: assets/images/ndalessandre.jpg
+    description: >
+      Bióloga e doutoranda no Galantes Lab,
+      dedicando-se ao estudo de elementos
+      transponíveis no câncer, com foco
+      em HERV-K
 
 # Social
 social:
