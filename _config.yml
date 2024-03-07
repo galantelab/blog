@@ -30,7 +30,7 @@ authors:
     display_name: Thiago L. A. Miller
     citation_name: Miller, Thiago L. A.
     avatar: assets/images/tmiller.png
-    description: Pós-doutorando no Galantelab.
+    description: Pós-doutorando no Galantelab
   pgalante:
     name: Pedro Alexandre Favoretto Galante
     display_name: Pedro A. F. Galante
@@ -61,10 +61,21 @@ authors:
     citation_name: D' Alessandre, Nathália
     avatar: assets/images/ndalessandre.jpg
     description: >
-      Bióloga e doutoranda no Galantes Lab,
+      Bióloga e doutoranda no Galantelab,
       dedicando-se ao estudo de elementos
       transponíveis no câncer, com foco
       em HERV-K
+  voliveira:
+    name: Vitoria Regina Lima de Oliveira
+    display_name: Vitoria R. L. de Oliveira
+    citation_name: de Oliveira, Vitoria R. L.
+    avatar: assets/images/voliveira.jpg
+    description: >
+      Graduanda de Engenharia Biotecnológica
+      na UNESP de Assis e aluna de iniciação
+      científica no Galantelab, dedicando-se
+      ao estudo de reguladores da expressão
+      gênica
 
 # Social
 social:
