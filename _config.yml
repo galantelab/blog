@@ -76,6 +76,16 @@ authors:
       científica no Galantelab, dedicando-se
       ao estudo de reguladores da expressão
       gênica
+  hconceicao:
+    name: Helena Beatriz Conceição
+    display_name: Helena B. Conceição
+    citation_name: Conceição, Helena B.
+    avatar: assets/images/hconceicao.jpg
+    description: >
+      Doutora em Bioinformática. Atualmente
+      Pós-doutoranda no Galantelab, dedica-se
+      ao estudo das retrocópias em humanos e
+      outros organismos
 
 # Social
 social:
