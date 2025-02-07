@@ -13,6 +13,12 @@ services:
     network_mode: host
     volumes:
       - ./:/usr/srv/app
+    command: |
+      bundle exec jekyll serve
+      --trace
+      --watch
+      --incremental
+      --destination /tmp/_site
     depends_on:
       bundle:
         condition: service_completed_successfully

@@ -11,4 +11,4 @@ COPY . .
 
 EXPOSE 4000
 
-CMD bundle exec jekyll serve --trace --watch --incremental --destination /tmp/_site
+CMD ["bundle", "exec", "jekyll", "serve"]
