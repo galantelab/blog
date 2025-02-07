@@ -50,9 +50,8 @@ processados, também conhecidos como retrocópias. As retrocópias são cópias
 de mRNA que foram inseridas no genoma em um processo conhecido como
 retrotransposição. Esse conjunto de elementos genéticos foi tido por muito
 tempo na comunidade científica como “sem função” ou
-“mortos-a-chegada”, mas um conjunto crescente de evidências (KAESSMANN et
-al., 2009; NAVARRO e GALANTE, 2015) sugere que uma grande
-fração das retrocópias é funcional.
+“mortos-a-chegada”, mas um conjunto crescente de evidências {% cite kaessmann2009 navarro2015 %}
+sugere que uma grande fração das retrocópias é funcional.
 
 O grupo de pesquisa do Dr. Galante segue uma forte linha de pesquisa
 investigando as retrocópias em humanos e diversas outras espécies. Em
@@ -69,7 +68,9 @@ retroduplicados de carona com o gene em que eles se localizavam e 7 vieram de
 uma sequência que só existe através das junções de exons. Como na figura
 esquemática abaixo:
 
-<p align="center"><img src="{{ site.baseurl }}/assets/images/7-1.png" alt="Fig1"></p>
+<figure style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/7-1.png" alt="Fig1">
+</figure>
 
 Com essas informações, conduzimos um estudo abrangente dos retro-miRs no
 genoma humano. Nossas descobertas demonstraram que esses retro-miRs são
@@ -81,8 +82,3 @@ retro-miRs exibem expressão diferencial e possíveis funções em vários
 tipos de câncer, tais como o câncer de fígado e de estômago. Portanto,
 nosso estudo demonstra a importância das retrocópias para a geração de
 elementos regulatórios (pós transcricionais), como os miRNAs.
-
-## Referências
-
-- KAESSMANN, H., VINCKENBOSCH, N. & Long, M. RNA-based gene duplication: mechanistic and evolutionary insights. **Nat Rev Genet**, v. 10, p. 19–31, 2009. Disponível em: <https://doi.org/10.1038/nrg2487>
-- NAVARRO, Fábio C. P. and GALANTE, Pedro A. F. jA Genome-Wide Landscape of Retrocopies in Primate Genomes. **Genome Biology and Evolution**, v. 7, p. 2265-2275, 2015. Disponível em: <https://doi.org/10.1093/gbe/evv142>

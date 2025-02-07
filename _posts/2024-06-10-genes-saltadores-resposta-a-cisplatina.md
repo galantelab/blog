@@ -69,8 +69,8 @@ predizer a entrada de um segundo tratamento ou mesmo o prognóstico do paciente.
 
 ## Transposons alteram a expressão gênica e podem impactar na resposta à terapia com cisplatina em câncer de ovário
 
-Uma pesquisa publicada nesta semana (03.06.2024) pelo nosso grupo (MOMBACH et
-al., 2024) mostrou que os transposons podem participar da regulação de genes
+Uma pesquisa publicada nesta semana (03.06.2024) pelo nosso grupo {% cite mombach2024 %}
+mostrou que os transposons podem participar da regulação de genes
 importantes na resposta ao tratamento com cisplatina em câncer de ovário.
 Nessa pesquisa, relacionamos genes desregulados a elementos transponíveis
 próximos, e sugerimos que os transposons podem estar alterando a expressão
@@ -84,7 +84,3 @@ evidenciam ainda mais a importância de investigar em conjunto os genes e os
 elementos transponíveis (transposons) contidos no nosso genoma para entender a
 origem do câncer e também como células tumorais vão responder ou não a
 certos tratamentos.
-
-## Referências
-
-- MOMBACH, D. M. et al. Transposable elements alter gene expression and may impact response to cisplatin therapy in ovarian cancer. **Carcinogenesis**, p. bgae029, 2024. Disponível em <https://doi.org/10.1093/carcin/bgae029>
