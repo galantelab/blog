@@ -35,3 +35,9 @@ gem "webrick"
 
 # Fix 'cannot load such file -- json (LoadError)'
 gem "json"
+
+# Fix 'rubygems version >= 3.3.22'
+gem "ffi", "< 1.17.0"
+
+# Bibliography
+gem "jekyll-scholar", group: :jekyll_plugins

@@ -4,3 +4,28 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+
+/* For jekyll-scholar */
+
+ol.bibliography li {
+	list-style-type: none;
+}
+ol.bibliography li + li {
+	margin-top: 10px;
+}
+
+ol.bibliography {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+figcaption {
+  text-align: justify;
+  font-style: italic;
+  font-size: 14px;
+  color: #555;
+  margin-top: 5px;
+  max-width: 80%; /* Para não ficar muito espalhado em telas grandes */
+  margin-left: auto;
+  margin-right: auto;
+}

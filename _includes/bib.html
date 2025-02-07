@@ -1,0 +1,8 @@
+{% capture bib %}
+  {% bibliography --cited %}
+{% endcapture %}
+{% assign bib_trimmed = bib | strip_html | strip %}
+{% if bib_trimmed != "" %}
+  <h2>Referências</h2>
+  {{ bib | replace: "Tradução: Tradução: ", "Tradução: " }}
+{% endif %}
