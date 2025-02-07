@@ -1,0 +1,18 @@
+services:
+  bundle:
+    image: ruby:2.7.2
+    volumes:
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    command: sh -c "[ -f Gemfile.lock ] || bundle install"
+
+  server:
+    container_name: blog-server
+    build: ./
+    restart: always
+    network_mode: host
+    volumes:
+      - ./:/usr/srv/app
+    depends_on:
+      bundle:
+        condition: service_completed_successfully
