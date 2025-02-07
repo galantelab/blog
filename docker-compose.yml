@@ -13,7 +13,7 @@ services:
     network_mode: host
     volumes:
       - ./:/usr/srv/app
-    command: |
+    command: >
       bundle exec jekyll serve
       --trace
       --watch
