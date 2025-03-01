@@ -26,7 +26,10 @@ scholar:
   style: associacao-brasileira-de-normas-tecnicas
   sort_by: author
 exclude:
+  - Gemfile
+  - Gemfile.lock
   - README.md
+  - LICENSE
   - Dockerfile
   - docker-compose.yml
 
