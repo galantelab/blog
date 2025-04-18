@@ -274,7 +274,7 @@ com ele)! Essa experiência me mostrou claramente o **poder da convicção**;
 aprender</mark>.
 
 <figure id="fig3" style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/12-3.jpg" alt="Fig3">
+  <img src="{{ site.baseurl }}/assets/images/12-3.png" alt="Fig3">
   <figcaption>
     <b>Figura 3</b>: Um feliz estudante de graduação em seu local de estágio (arquivo pessoal).
   </figcaption>
@@ -424,7 +424,7 @@ vida:
 - Colaborações internacionais.
 
 <figure id="fig5" style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/12-5.png" alt="Fig5">
+  <img src="{{ site.baseurl }}/assets/images/12-5.jpg" alt="Fig5">
   <figcaption>
     <b>Figura 5</b>: Foto com Svante Pääbo, ganhador do prêmio Nobel de Fisiologia ou Medicina em 2022,
     durante sessão de pôster, na qual apresentava meu trabalho, no congresso “Biology of Genomes” no CSHL
