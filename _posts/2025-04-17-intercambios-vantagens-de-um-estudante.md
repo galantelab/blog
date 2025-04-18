@@ -469,73 +469,75 @@ certamente contribuem para o seu crescimento profissional e pessoal**. <mark>Se 
 está pensando em embarcar nessa jornada, vá em frente! Você voltará com
 novas histórias, aprendizados e uma nova versão de si mesmo.</mark>
 
-<table id="tb1" class="post-table">
-  <caption>
-    <b>Tabela 1</b>:
-    Intercâmbio acadêmico. Tarefas, prós vs. contras e informações importantes.
-    Tabela resumindo brevemente todas as etapas (com seus prós e contras) que
-    envolvem um intercâmbio acadêmico, desde os primeiros passos no Brasil até
-    o retorno, passando pela experiência internacional.
-    <br>
-    * “contras” que são totalmente evitáveis, a depender de diversos fatores
-    como fase da vida, orientação e as diferenças naturais entre os indivíduos.
-  </caption>
-  <tr><th>Etapa 📆</th><th>Observações ⚠️</th><th>Prós ✅</th><th>Contras ❌</th></tr>
-  <tr>
-    <td>Planejamento mental, estrutural e financeiro 📑</td>
-    <td><ins>≥ 24 meses de antecedência</ins>. Guardar dinheiro</td>
-    <td>Preparo e segurança para o intercâmbion</td>
-    <td>Ansiedade e risco de decepção*</td>
-  </tr>
-  <tr>
-    <td>Escolha do destino, instituição e PI ✈️ </td>
-    <td><ins>≥ 18 meses de antecedência.</ins> Lugares "tops": mais difíceis; PIs "tops": alunos orientam</td>
-    <td>Alinhamento de expectativas e realidade</td>
-    <td>Excesso de opções e deslumbramento*</td>
-  </tr>
-  <tr>
-    <td>Financiamento e bolsas 💰</td>
-    <td>Editais/notícias na universidade (BEPE / Print). Adiantar docs</td>
-    <td>Estabilidade financeira e currículo</td>
-    <td>Competição</td>
-  </tr>
-  <tr>
-    <td>Processo de candidatura 📝</td>
-    <td>Atenção as regras, requisitos, docs e prazos</td>
-    <td>Amadurecimento e experiência</td>
-    <td>Burocracia e prazos</td>
-  </tr>
-  <tr>
-    <td>Documentação e logística 💻</td>
-    <td><ins>≥ 1 ano de antecedência</ins>. Dependência de terceiros. Começar pelos demorados</td>
-    <td>Autonomia e organização</td>
-    <td>Rotina* e custos</td>
-  </tr>
-  <tr>
-    <td>Adaptação ao novo país 😄</td>
-    <td>Pesquisar sobre o destino e adiantar burocracias <ins>≥ 6 meses antes</ins> (ex: moradia). Rotina</td>
-    <td>Crescimento pessoal, rotina e resiliência</td>
-    <td>Solidão*, saudade e choque cultural</td>
-  </tr>
-  <tr>
-    <td>Experiência científica 🎓</td>
-    <td>Foco, mas aberto a colaborações. <ins>Saia da zona de conforto</ins> (reuniões e eventos)</td>
-    <td>Networking, metodologias, papers e eventos</td>
-    <td>Novos processos* e pressão</td>
-  </tr>
-  <tr>
-    <td>Experiência cultural 🎉</td>
-    <td><ins>Não tenha medo</ins> e se organize para ter lazer, mas mantendo o foco nos deveres</td>
-    <td>Cultura, diversão e aprendizado</td>
-    <td>Produtividade* e gastos extras</td>
-  </tr>
-  <tr>
-    <td>Retorno ao Brasil 🇧🇷</td>
-    <td><ins>Auto-reflexão</ins> (sem arrependimentos; muitas histórias!)</td>
-    <td>Transformação e impacto na vida</td>
-    <td>Rotina e “choque reverso"</td>
-  </tr>
-</table>
+<div id="tb1" class="post-table">
+  <table>
+    <caption>
+      <b>Tabela 1</b>:
+      Intercâmbio acadêmico. Tarefas, prós vs. contras e informações importantes.
+      Tabela resumindo brevemente todas as etapas (com seus prós e contras) que
+      envolvem um intercâmbio acadêmico, desde os primeiros passos no Brasil até
+      o retorno, passando pela experiência internacional.
+      <br>
+      * “contras” que são totalmente evitáveis, a depender de diversos fatores
+      como fase da vida, orientação e as diferenças naturais entre os indivíduos.
+    </caption>
+    <tr><th>Etapa 📆</th><th>Observações ⚠️</th><th>Prós ✅</th><th>Contras ❌</th></tr>
+    <tr>
+      <td>Planejamento mental, estrutural e financeiro 📑</td>
+      <td><ins>≥ 24 meses de antecedência</ins>. Guardar dinheiro</td>
+      <td>Preparo e segurança para o intercâmbion</td>
+      <td>Ansiedade e risco de decepção*</td>
+    </tr>
+    <tr>
+      <td>Escolha do destino, instituição e PI ✈️ </td>
+      <td><ins>≥ 18 meses de antecedência.</ins> Lugares "tops": mais difíceis; PIs "tops": alunos orientam</td>
+      <td>Alinhamento de expectativas e realidade</td>
+      <td>Excesso de opções e deslumbramento*</td>
+    </tr>
+    <tr>
+      <td>Financiamento e bolsas 💰</td>
+      <td>Editais/notícias na universidade (BEPE / Print). Adiantar docs</td>
+      <td>Estabilidade financeira e currículo</td>
+      <td>Competição</td>
+    </tr>
+    <tr>
+      <td>Processo de candidatura 📝</td>
+      <td>Atenção as regras, requisitos, docs e prazos</td>
+      <td>Amadurecimento e experiência</td>
+      <td>Burocracia e prazos</td>
+    </tr>
+    <tr>
+      <td>Documentação e logística 💻</td>
+      <td><ins>≥ 1 ano de antecedência</ins>. Dependência de terceiros. Começar pelos demorados</td>
+      <td>Autonomia e organização</td>
+      <td>Rotina* e custos</td>
+    </tr>
+    <tr>
+      <td>Adaptação ao novo país 😄</td>
+      <td>Pesquisar sobre o destino e adiantar burocracias <ins>≥ 6 meses antes</ins> (ex: moradia). Rotina</td>
+      <td>Crescimento pessoal, rotina e resiliência</td>
+      <td>Solidão*, saudade e choque cultural</td>
+    </tr>
+    <tr>
+      <td>Experiência científica 🎓</td>
+      <td>Foco, mas aberto a colaborações. <ins>Saia da zona de conforto</ins> (reuniões e eventos)</td>
+      <td>Networking, metodologias, papers e eventos</td>
+      <td>Novos processos* e pressão</td>
+    </tr>
+    <tr>
+      <td>Experiência cultural 🎉</td>
+      <td><ins>Não tenha medo</ins> e se organize para ter lazer, mas mantendo o foco nos deveres</td>
+      <td>Cultura, diversão e aprendizado</td>
+      <td>Produtividade* e gastos extras</td>
+    </tr>
+    <tr>
+      <td>Retorno ao Brasil 🇧🇷</td>
+      <td><ins>Auto-reflexão</ins> (sem arrependimentos; muitas histórias!)</td>
+      <td>Transformação e impacto na vida</td>
+      <td>Rotina e “choque reverso"</td>
+    </tr>
+  </table>
+</div>
 
 ## Checklist final: preparando as malas com tudo em dia!
 

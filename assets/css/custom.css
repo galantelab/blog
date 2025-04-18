@@ -30,7 +30,14 @@ figcaption {
   margin-right: auto;
 }
 
+.post-table {
+  overflow-x: auto;
+  max-width: 100%;
+  margin: 20px 0;
+}
+
 .post-table table {
+  overflow-x: auto;
   border-collapse: separate;
   border-spacing: 0;
   width: 100%;
