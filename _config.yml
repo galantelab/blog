@@ -139,6 +139,24 @@ authors:
       desenvolver ferramentas e bancos de dados. Além do DNA e
       genes, também adoro jogar futebol, praticar esportes de
       areia e conviver com animais. Sejam bem-vindo(a)s!
+  lcoliveira:
+    name: Lorraine Christine de Oliveira
+    display_name: Lorraine C. Oliveira
+    citation_name: Oliveira, Lorraine C.
+    avatar: assets/images/lcoliveira.jpg
+    description: >
+      Sou cientista apaixonada pelo que faço. Graduada em
+      Ciências com habilitação em Biologia pela Universidade
+      Federal de São Paulo (UNIFESP), atualmente sou mestranda
+      em Bioinformática na Universidade de São Paulo (USP),
+      onde desenvolvo minha pesquisa no laboratório do Dr.
+      Pedro Galante. Investigo o fascinante universo das
+      retrocópias e seus impactos evolutivos nas mais diversas
+      espécies. Além disso, atuo como visiting scholar na Blue
+      Marble Space, onde uno minha paixão por bioinformática e
+      ciências espaciais, buscando compreender, por meio da
+      biologia computacional, os mistérios que envolvem a vida
+      no universo. ✨
 
 # Social
 social:
