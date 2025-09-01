@@ -157,6 +157,16 @@ authors:
       ciências espaciais, buscando compreender, por meio da
       biologia computacional, os mistérios que envolvem a vida
       no universo. ✨
+  echaves:
+    name: Elisa França Chaves
+    display_name: Elisa F. Chaves
+    citation_name: Chaves, Elisa F.
+    avatar: assets/images/echaves.jpg
+    description: >
+      Formada em Medicina pela Universidade Federal de Minas Gerais
+      com especialização em Genética Médica pelo Hospital das Clínicas da USP.
+      Atualmente desenvolve sua tese de doutorado pelo programa de Ciências da
+      Saúde do Hospital Sírio-Libanês.
 
 # Social
 social:
