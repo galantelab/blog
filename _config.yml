@@ -167,6 +167,16 @@ authors:
       com especialização em Genética Médica pelo Hospital das Clínicas da USP.
       Atualmente desenvolve sua tese de doutorado pelo programa de Ciências da
       Saúde do Hospital Sírio-Libanês.
+  gguardia:
+    name: Gabriela Der Agopian Guardia
+    display_name: Gabriela D. A. Guardia
+    citation_name: Guardia, Gabriela D. A.
+    avatar: assets/images/gguardia.jpg
+    description: >
+      Doutora em Bioinformática pela Universidade de São Paulo (USP).
+      Atualmente, dedica-se ao estudo dos impactos do splicing alternativo
+      na tumorigênese no Centro de Oncologia Molecular
+      do Hospital Sírio-Libanês.
 
 # Social
 social:
