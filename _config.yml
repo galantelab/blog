@@ -177,6 +177,19 @@ authors:
       Atualmente, dedica-se ao estudo dos impactos do splicing alternativo
       na tumorigênese no Centro de Oncologia Molecular
       do Hospital Sírio-Libanês.
+  lfarina:
+    name: Lucas Farina
+    display_name: Lucas Farina
+    citation_name: Farina, Lucas
+    avatar: assets/images/lfarina.jpg
+    description: >
+      Médico formado pela Universidade do Oeste Paulista e mestrando no
+      programa interunidades de Bioinformática da Universidade de
+      São Paulo (USP). Atualmente, dedica-se ao estudo de mecanismos
+      genômicos e de expressão gênica envolvidos na doença de Alzheimer,
+      aplicando ferramentas de inteligência artificial e modelos de
+      linguagem para integrar dados clínicos e computacionais e compreender
+      a progressão das demências.
 
 # Social
 social:
