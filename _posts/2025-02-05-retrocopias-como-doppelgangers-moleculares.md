@@ -2,7 +2,7 @@
 layout: post
 title: "Espelhos do genoma: retrocópias como doppelgängers moleculares"
 author: tmiller
-categories: [ "DNA", "L1", "Elementos Transponíveis", "Retrocópia" ]
+categories: [ "DNA", "LINE-1", "L1", "Elementos Transponíveis", "Retrocópia" ]
 image: assets/images/9.jpg
 ---
 
