@@ -41,3 +41,6 @@ gem "ffi", "< 1.17.0"
 
 # Bibliography
 gem "jekyll-scholar", group: :jekyll_plugins
+
+# Fix 'syntax error, unexpected ')' _.__send__(:empty?, ...)'
+gem "forwardable", "1.3.1"
